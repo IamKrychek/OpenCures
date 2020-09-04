@@ -5,7 +5,7 @@
   "dependencies": {
     "@types/react": "^16.3.14",
     "@types/react-dom": "^16.0.5",
-    "airtable": "^0.5.0",
+    "airtable": "^0.7.2",
     "animated-scroll-to": "^1.1.7",
     "autoprefixer": "8.5.1",
     "awesome-typescript-loader": "^4.0.0",
